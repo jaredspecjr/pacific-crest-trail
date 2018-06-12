@@ -1,5 +1,32 @@
 # Tuesday2day
 
+
+
+things client wants:
+
+1. they are proud to be an indie developer and would like to reflect that in the page.
+2. the game has a lot of forrest and nature scenery, they'd like to reflect that in the page.
+3. the game is also a little dark at times. dont make the page too peaceful. make it dark or ominous maybe even foreboding.
+
+content
+
+1. countdown timer
+2. page or area for media such as reviews or comments.
+3. area featuring the team who worked on the game
+4. blog area to give updates about the game. like patch notes and random development updates
+5. lots of images to display games
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
