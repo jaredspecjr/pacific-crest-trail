@@ -1,0 +1,30 @@
+.timer{
+  display: flex;
+  justify-content: space-around;
+  font-size: 100px;
+  font-family: helvetica;
+  background-color: #005627;
+  min-height: 320px;
+  p{
+   color: #f2f2f2;
+   text-shadow: 2px 2px black;
+  }
+}
+
+.imageContainer{
+  position: relative;
+  width: 100%;
+  .introImage img{
+    width: 100%;
+  }
+}
+.overlay{
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  background-color: rgba(0,3,45,0.5);
+}

@@ -25,7 +25,7 @@ export class HomeComponent implements OnInit {
       let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
       let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
       let seconds = Math.floor((distance % (1000 * 60)) / 1000);
-      let result = days.toString() + ' '  + hours.toString() + ' ' + minutes.toString()+ ' ' + seconds.toString();
+      let result = days.toString() + 'D' + ' '  + hours.toString() + 'H' + ' ' + minutes.toString()+ 'M' + ' ' + seconds.toString() + 'S';
       this.result = result;
     }, 1000);
   }

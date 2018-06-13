@@ -3,8 +3,16 @@
   flex-direction: row;
   justify-content: flex-end;
   padding-right: 20px;
+  background-color: black;
 }
 
 .links{
   padding: 10px;
+  a{
+    color: green;
+    text-decoration: none;
+  }
+  a:hover{
+    color:lightgreen;
+  }
 }
