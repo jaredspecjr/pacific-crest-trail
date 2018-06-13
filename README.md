@@ -6,7 +6,7 @@ things client wants:
 
 1. they are proud to be an indie developer and would like to reflect that in the page.
 2. the game has a lot of forrest and nature scenery, they'd like to reflect that in the page.
-3. the game is also a little dark at times. dont make the page too peaceful. make it dark or ominous maybe even foreboding.
+3. the game is also a little dark at times. don't make the page too peaceful. make it dark or ominous maybe even foreboding.
 
 content
 
